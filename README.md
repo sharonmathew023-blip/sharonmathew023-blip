@@ -26,7 +26,6 @@ I build websites and small projects – and learning more every day.
 - [Game](https://github.com/sharonmathew023-blip/Game) - JS mini game
 
 ### GitHub stats
-
 [Sharon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharonmathew023-blip&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 [Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharonmathew023-blip&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
