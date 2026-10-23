@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sharonmathew023-blip.github.io">
+  <a href="https://sharonmathew023-blip.github.io/SHARON2004/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/sharonmathew023-blip">
@@ -74,7 +74,7 @@ I'm a student developer who sits where **code meets design**. I enjoy building c
 
 | Project | What it is |
 |---|---|
-| 🌐 [**SHARON2004**](https://github.com/sharonmathew023-blip/SHARON2004) | My personal portfolio website |
+| 🌐 **Portfolio** | [Live site](https://sharonmathew023-blip.github.io/SHARON2004/) · [Source](https://github.com/sharonmathew023-blip/SHARON2004) |
 | 💌 [**Valentine**](https://github.com/sharonmathew023-blip/valentine) | An interactive, Valentine-themed web experience |
 | 💬 [**Echora Messenger**](https://github.com/sharonmathew023-blip/echora-messenger) | A messenger UI experiment |
 | 🎮 [**Game**](https://github.com/sharonmathew023-blip/Game) | A small browser game built with JavaScript |
@@ -92,7 +92,7 @@ I'm a student developer who sits where **code meets design**. I enjoy building c
 
 ## 🤝 Let's Connect
 
-I'm open to collaborating on creative web projects and learning from other developers. Have an idea? Reach out through my [portfolio](https://sharonmathew023-blip.github.io).
+I'm open to collaborating on creative web projects and learning from other developers. Have an idea? Reach out through my [portfolio](https://sharonmathew023-blip.github.io/SHARON2004/).
 
 <p align="center">
   <i>Building • Learning • Creating</i>
