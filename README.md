@@ -28,7 +28,7 @@
 
 ## ⚡ About Me
 
-I build at the intersection of **code and visual storytelling**. Whether I'm wiring up interactive front-end interfaces, experimenting with browser games, or dialing in moody color grades and motion edits, I learn best by shipping real projects.
+I build websites that feel alive and edits that hit. Front-end dev, color grader, motion nerd. I learn by building real projects.
 
 - 🎯 **Code Focus:** Front-end web development, interactive UI, and 2D/3D browser experiments
 - 🎬 **Visual Craft:** Video editing, cinematic color grading, and poster design (**BySharon**)
@@ -56,7 +56,6 @@ I build at the intersection of **code and visual storytelling**. Whether I'm wir
   <img src="https://img.shields.io/badge/Alight_Motion-00E5FF?style=for-the-badge&logo=adobeaftereffects&logoColor=black" alt="Alight Motion" />
   <img src="https://img.shields.io/badge/Photopea-18A497?style=for-the-badge&logo=photopea&logoColor=white" alt="Photopea" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
 </p>
 
 ---
@@ -68,7 +67,7 @@ I build at the intersection of **code and visual storytelling**. Whether I'm wir
 | 🌐 **Personal Portfolio** | `HTML` `CSS` `JS` | My main hub showcasing web builds, edits, and creative work. | [Live Site](https://sharonmathew023-blip.github.io/SHARON2004/) · [Repo](https://github.com/sharonmathew023-blip/SHARON2004) |
 | 🩸 **Browser Game** | `JS` `HTML5` | Fast-paced interactive browser game prototype built from scratch. | [Repo](https://github.com/sharonmathew023-blip/Game) |
 | 💬 **Echora Messenger** | `HTML` `CSS` `JS` | Sleek, modern chat UI experiment focusing on clean layout and responsiveness. | [Repo](https://github.com/sharonmathew023-blip/echora-messenger) |
-| 💌 **Valentine Experience** | `HTML` `CSS` `JS` | Playful, interactive micro-site with custom DOM animations. | [Repo](https://github.com/sharonmathew023-blip/valentine) |
+| 💌 **Valentine Experience** | `HTML` `CSS` `JS` | Playful, interactive micro-site with custom DOM animations. | [Live Site](https://sharonmathew023-blip.github.io/valentine/) · [Repo](https://github.com/sharonmathew023-blip/valentine) |
 
 ---
 
