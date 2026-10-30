@@ -2,7 +2,7 @@
 
 <img src="https://ghchart.rshah.org/c8ff3d/sharonmathew023-blip" width="100%" alt="GitHub contribution calendar" />
 
-<img src="./sharon-ascii-loop.svg" width="100%" alt="Animated ASCII portrait of Sharon" />
+<img src="./sharon-ascii.gif" width="100%" alt="Animated ASCII portrait of Sharon" />
 
 <img src="./info-card.svg" width="100%" alt="Sharon's profile information" />
 
