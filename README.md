@@ -2,16 +2,9 @@
 
 <img src="https://ghchart.rshah.org/c8ff3d/sharonmathew023-blip" width="100%" alt="GitHub contribution calendar" />
 
-<table>
-<tr>
-<td valign="top" width="50%">
 <img src="./sharon-ascii-loop.svg" width="100%" alt="Animated ASCII portrait of Sharon" />
-</td>
-<td valign="top" width="50%">
+
 <img src="./info-card.svg" width="100%" alt="Sharon's profile information" />
-</td>
-</tr>
-</table>
 
 <a href="https://sharonmathew023-blip.github.io/SHARON2004/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-050805?style=for-the-badge&logo=google-chrome&logoColor=c8ff3d" alt="Portfolio" /></a>
 <a href="https://instagram.com/psy_tranceholic"><img src="https://img.shields.io/badge/INSTAGRAM-@PSY__TRANCEHOLIC-050805?style=for-the-badge&logo=instagram&logoColor=c8ff3d" alt="Instagram" /></a>
