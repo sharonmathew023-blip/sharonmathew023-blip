@@ -1,0 +1,27 @@
+name: Profile Markdown validation
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'README.md'
+      - '.markdownlint-cli2.jsonc'
+      - '.github/workflows/markdown.yml'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'README.md'
+      - '.markdownlint-cli2.jsonc'
+      - '.github/workflows/markdown.yml'
+permissions:
+  contents: read
+jobs:
+  markdown:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Validate README Markdown
+        run: npx --yes markdownlint-cli2@0.17.2 README.md
